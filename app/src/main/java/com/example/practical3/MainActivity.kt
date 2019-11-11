@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {
             premium=60
         }
         if(gender==R.id.radioButtonMale){
-            
+
         }
         if(gender==R.id.radioButtonFemale){
 
